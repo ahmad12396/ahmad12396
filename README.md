@@ -1,50 +1,46 @@
-👋Hi, I’m @ahmad12396
+👋 Hi, I’m @ahmad12396
 
-👀 About Me
-I'm currently enrolled in the third semester of a BSCS program, with a strong focus on computer science. I’m skilled in programming languages like C++, Object-Oriented Programming (OOP), Html, Css, JavaScript and have a solid understanding of Python and Java..
+👨‍💻 **About Me**  
+I’m Ghafeer Ahmad — a passionate Computer Science student (currently in 5th semester at Superior University, Lahore) and a dedicated programming educator for students from grades 9 to 12.  
+I specialize in **C, C++, Python, SQL, HTML, CSS**, and have working knowledge in **JavaScript, OOP, and basic Machine Learning**. I'm also skilled in **video editing** and **graphic designing** using Adobe tools like Photoshop, Premiere Pro, and Nuke.
 
-🌱 Interests
-- Software Engineering
-- Artificial Intelligence
-- Data Science
-- App Development
+🌱 **Interests**
+- Data Structures & Algorithms (DSA)  
+- Machine Learning & Artificial Intelligence  
+- Software Engineering  
+- Teaching & Curriculum Design  
+- Creative Design & Video Editing  
 
-💼 Personal Projects
+💼 **Notable Projects**
+- 🎮 **2048 Game** (C++) — Console game with dynamic grid & logic implementation  
+- ♟️ **Chess Game** (C++) — OOP-based engine with full piece logic and rules  
+- 🏫 **School Management System** (C++) — DSA-based terminal app for handling records  
+- 🏥 **Hospital Management System** (SQL) — Relational DB system with ERD and complex queries  
+- 🤖 **Medical Chatbot** (Python) — Beginner-level AI chatbot for FAQs  
+- 📚 **Library System** (C++) — Book tracking, file handling, and record updates  
+- 💻 **Shopping Website** (HTML/CSS) — Clean frontend layout for e-commerce  
+- 🎨 **Freelance Posters & Educational Videos** — Using Adobe Photoshop, Premiere Pro, and Nuke
 
-2048 Game (10/2023 - 11/2023)
-- Developed a 2048 game using dynamic memory allocation and nested loops.
-- Allowed player customization for grid size to practice algorithm implementation.
+👔 **Experience**
+- 👨‍🏫 *Computer Science Instructor* — Ishaq Academy (Apr 2024 – Jul 2025)  
+  Taught C, C++, SQL, and fundamentals of computing to high school students.
 
-Tic-Tac-Toe (12/2023 - 01/2024)
-- Created a classic Tic-Tac-Toe game to demonstrate proficiency in programming logic and game development.
+- 🧑‍🎓 *Student Team Lead* — Superior University (Mar 2024 – Apr 2024)  
+  Led a 3-member team in project planning, development, and delivery.
 
-Rock-Paper-Scissors (02/2024 - 03/2024)
-- Implemented the core rules and game logic for Rock-Paper-Scissors, handling multiple rounds and scorekeeping.
+- 🖼️ *Freelance Adobe Photoshop Editor* — (Mar 2022 – Jun 2022)  
+  Specialized in image enhancement, color grading, and design layouts.
 
-Scientific Calculator (05/2024 - 06/2024)
-- Built a scientific calculator with error handling for invalid inputs and mathematical errors, providing user-friendly feedback.
+- 🧑‍💻 *Front-End Developer (Freelance)* — (Apr 2024 – May 2024)  
+  Designed a clothing e-commerce layout using HTML & CSS.
 
-👔 Experience
+📫 **How to Reach Me**
+- ✉️ Email: ahmedmghafeer@gmail.com  
+- 💼 LinkedIn: [ghafeer](https://www.linkedin.com/in/ghafeer)  
+- 💬 WhatsApp: [Chat](https://wa.me/923144989742)  
+- 🧑‍💻 GitHub: [ahmad12396](https://github.com/ahmad12396)  
+- 📸 Instagram: [ghafeer.ahmad.96](https://www.instagram.com/ghafeer.ahmad.96/)  
+- 📘 Facebook: [ghafeer.ahmad.96](https://www.facebook.com/ghafeer.ahmad.96)
 
-Student Team Lead - Project Management  
-Superior University 
-03/2024 - 04/2024, Lahore, Pakistan  
-- Led a team of 3 students in project planning, execution, and successful delivery, meeting all defined objectives.
-
-Adobe Photoshop Editor  
-Freelancer
-03/2022 - 06/2022, Lahore, Pakistan 
-- Edited and enhanced images using advanced color correction, retouching, and restoration techniques.
-
-Front End Developer  
-Freelancer: 
-04/2024 - 05/2024, Lahore, Pakistan  
-- Designed and developed an e-commerce clothing store using HTML and CSS, focused on a user-friendly interface.
-
-📫 How to Reach Me
-- Email: ahmedmghafeer@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ghafeer
-
-😄 Pronouns: He/Him  
-
-⚡ Fun fact: I developed both a chess game and the 2048 game in C++ and much more projects!
+😄 **Pronouns**: He/Him  
+⚡ **Fun Fact**: I developed both a fully playable Chess game and the 2048 puzzle game in C++, alongside various database systems and web designs — and I love merging creativity with logic!
